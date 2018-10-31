@@ -1,0 +1,23 @@
+{
+  "name": "LIReplay",
+  "version": "1.0.0",
+  "summary": "LIReplay is a kind of modular programming method",
+  "description": "Developer can use LIReplay make iOS programming easier",
+  "homepage": "https://github.com/alibaba/BeeHive/",
+  "license": "MIT",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "authors": {
+    "vincent": "liwenbosev777@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/sevli/LIReplyFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": "LIReplay/*.{h,m}",
+  "frameworks": [
+    "QuartzCore",
+    "UIKit"
+  ]
+}

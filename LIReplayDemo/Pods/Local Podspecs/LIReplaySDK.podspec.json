@@ -1,0 +1,22 @@
+{
+  "name": "LIReplaySDK",
+  "version": "0.0.1",
+  "summary": "A short description of LIReplaySDK.",
+  "description": "do something",
+  "homepage": "http://EXAMPLE/LIReplaySDK",
+  "license": "MIT",
+  "authors": {
+    "vincent": "18566663317@163.com"
+  },
+  "source": {
+    "git": "https://github.com/sevli/LIReplyFramework.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "LIReplaySDK/*.{h,m}",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}
